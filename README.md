@@ -10,7 +10,7 @@ PedroTech
 
 src: https://www.youtube.com/watch?v=f55qeKGgB_M
 
-But i did this project in simple  vanilar js and pedro did it in typescript.  
+But i did this project in simple  vanila js and pedro did it in typescript.  
 Must do project at beginner level
 
 Deployed using firebase:  https://react-course-15f58.web.app/
